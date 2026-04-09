@@ -1,0 +1,16 @@
+h1
+{color: rgb(52, 204, 5);}
+{font-family: Arial, Helvetica, sans-serif;}
+
+h4
+{color: rgb(223, 156, 12);}
+
+article
+{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+nav
+{background-color: yellowgreen;}
+nav:hover {background-color: crimson;}
+
+body
+{background-image: url(https://fastly.picsum.photos/id/14/2500/1667.jpg?hmac=ssQyTcZRRumHXVbQAVlXTx-MGBxm6NHWD3SryQ48G-o)}
